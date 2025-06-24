@@ -1,5 +1,5 @@
 # VPC Module
-This module is developed for joindevops company. Projects inside joindevops follows this module to create their VPC.
+This module is developed for vallalas company. Projects inside vallalas follows this module to create their VPC.
 
 ## Inputs
 * project (required) - Users should specify their project name
